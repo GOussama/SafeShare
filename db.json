@@ -1,0 +1,29 @@
+{
+  "rooms": [
+    {
+      "name": "kitchen",
+      "icon": "kitchen",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "bathroom",
+      "icon": "bathroom"
+    },
+    {
+      "id": 3,
+      "name": "bedroom",
+      "icon": "bedroom"
+    },
+    {
+      "id": 4,
+      "name": "living room",
+      "icon": "living-room"
+    },
+    {
+      "id": 5,
+      "name": "garden",
+      "icon": "garden"
+    }
+  ]
+}
